@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+/* NAVBAR SECTION START*/
+#logo{
+    width: 200px;
+    transition: 0.5s;
+}
+#logo:hover{
+    width: 300px;
+}
+
+#navbarScroll{
+    justify-content: end;
+    align-items: end;
+    text-align: left;
+    background: white;
+    margin: 5px;
+    padding: 20px;
+}
+
+.nav-link{
+    color: black;
+    margin-left: 40px;
+}
+.nav-link:hover{
+    color: blue;
+    background-color: whitesmoke;
+}
+
+.dropdown-menu .dropdown-item:hover{
+    color: blue;
+    background-color: aliceblue;
+}
+
+/* NAVBAR SECTION ENDS*/
+
+
+
+/* PICTURE SECTION START */
+.class-body h1{
+    color: rgb(92, 92, 232);
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.class-body p{
+    color: black;
+    font-family: serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+/* PICTURE SECTION ENDS*/
+
+
+
+/*  MISSION, VISION, VALUES SECTION START */
+.mision{
+    border: 20px;
+    padding: 10px;
+    background: white;
+}
+.mision img{
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+}
+.card-body h1{
+    
+}
+
+/*  MISSION, VISION, VALUES SECTION ENDS*/
