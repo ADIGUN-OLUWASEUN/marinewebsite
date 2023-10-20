@@ -61,9 +61,10 @@
 
 /*  MISSION, VISION, VALUES SECTION START */
 .mision{
-    border: 20px;
+    border: 10px;
     padding: 10px;
     background: white;
+    height: 240px;
 }
 .mision img{
     width: 50px;
@@ -71,7 +72,63 @@
     margin: 0 auto;
 }
 .card-body h1{
-    
+    text-align: center;
+    font-size: medium;
+}
+.card-body p{
+    text-align: center;
+}
+/*  MISSION, VISION, VALUES SECTION ENDS*/
+
+
+
+
+/* LEADING SECTION START  */
+
+.leading h1{
+    text-align: center;
+    color: aqua;
+    background-color: brown;
+    padding: 30px;
+    margin-top: 50px;
+}
+.leading h1 span{
+    color: black;
 }
 
-/*  MISSION, VISION, VALUES SECTION ENDS*/
+.text h2{
+    color: rgb(118, 118, 212);
+    text-align: left;
+}
+.text p{
+    text-align: left;
+    font-size: 20px;
+}
+.pics img{
+    height: 380px;
+    border-radius: 50px;
+}
+.pics img:hover{
+    border-radius:75px;
+    height: 420px;
+}
+.pics2 img{
+    height: 300px;
+    border-radius:30px ;
+}
+.pics2 img:hover{
+    border-radius:50px;
+    height: 280px;
+}
+.text2 h2{
+    text-align: center;
+    color: rgb(118, 118, 212);
+    padding: 30px;
+}
+.ABOUT-US h4{
+    text-align: center;
+    text-decoration: none;
+    color: aqua;
+    background-color: brown;
+}
+/* LEADING SECTION ENDS  */
