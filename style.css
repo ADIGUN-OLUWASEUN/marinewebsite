@@ -132,3 +132,52 @@
     background-color: brown;
 }
 /* LEADING SECTION ENDS  */
+
+
+
+
+/* MEMBERSHIP SECTION START */
+.membership h1{
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(118, 118, 212);
+}
+.membership h1 span{
+    color:brown;
+}
+.membership img{
+    width: 1000px;
+    display: block;
+    margin: 0 auto;
+}
+/* MEMBERSHIP SECTION ENDS */
+
+
+
+
+/* CONTACT SECTION START  */
+.contact{
+    background: brown;
+}
+.contact h1{
+    text-align: center;
+    margin-top: 50px;
+    color: rgb(118, 118, 212);
+}
+.contact h1 span{
+    color: brown;
+}
+.contact button{
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    color: brown;
+    background:rgb(118, 118, 212);
+}
+.contact button:hover{
+    width: 200px;
+    color: aqua;
+    background: rgb(73, 73, 227);
+}
+/* CONTACT SECTION ENDS */
