@@ -181,3 +181,17 @@
     background: rgb(73, 73, 227);
 }
 /* CONTACT SECTION ENDS */
+
+
+
+/* FOOTER SECTION START */ 
+.support{
+    background:aqua;
+}
+.us{
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* FOOTER SECTION ENDS */
